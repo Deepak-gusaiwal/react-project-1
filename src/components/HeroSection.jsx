@@ -22,14 +22,14 @@ const HeroSection = () => {
         <div className="contentBottom">
             <span>Also Available On</span>
             <div className="imgGroupBox">
-                <img src="../public/img/flipkart.png" alt="flipkart.png" />
-                <img src="../public/img/amazon.png" alt="amazon.png" />
+                <img src="/img/flipkart.png" alt="flipkart.png" />
+                <img src="/img/amazon.png" alt="amazon.png" />
             </div>
         </div>
       </div>
 
       <div className="heroImgBox">
-        <img src="../public/img/hero-image.png" alt="hero-image.png" />
+        <img src="/img/hero-image.png" alt="hero-image.png" />
       </div>
     </div>
   );
