@@ -5,7 +5,7 @@ const Navbar = () => {
     <header>
       <div className="container headerContainer">
         <a href="/" className="logoBox">
-          <img src="../public/img/brand_logo.png" alt="brand_logo" />
+          <img src="/img/brand_logo.png" alt="brand_logo" />
         </a>
 
         <ul className="menu">
